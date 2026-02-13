@@ -1,5 +1,9 @@
 # TriCache: Dynamic, Attention-Aware Context Management for MLX Large Language Models
 
+> [!WARNING]
+> This is an incomplete, experimental, ongoing project
+> System spits out gibberish and requires more work.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework: MLX](https://img.shields.io/badge/Framework-MLX-blue.svg)](https://github.com/ml-explore/mlx)
 
